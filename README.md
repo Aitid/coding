@@ -19,6 +19,26 @@
 * [ ] Type your paper code as-is into a computer
 * [ ] mock interviews
 
-# tips and tricks for use leetcode
+## tips and tricks for use leetcode
 1. отфильтровать по частоте использования на собеседовании
 2. переключаться между темами нужно как можно чаще, так лучше запоминается
+
+
+## Statistic
+
+### Solved
+| date                    | problems |
+|-------------------------|----------|
+|                         |          |
+|                         |          |
+
+### Done with help
+
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |
+| 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+| 5 | 5 | 5 | 5 | 5 | 5 | 5 | 5 |
+
+### Done by myself but need attention:
+...
+
