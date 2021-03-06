@@ -1,6 +1,6 @@
-# Алгоритмическая секция
+# Solving problems
 
-## План работы
+## I must to know
 
 | Data Structures      | Algorithms           | Concepts              |
 |----------------------|----------------------|-----------------------|
@@ -12,10 +12,13 @@
 | Hash Tables          |                      |                       |
 
 
-## тренеровка решения задач:
+## schema of solving problem
 * [ ] Try to solve the problem on your own
 * [ ] Write the code on paper
 * [ ] Test your code-on paper
 * [ ] Type your paper code as-is into a computer
 * [ ] mock interviews
 
+# tips and tricks for use leetcode
+1. отфильтровать по частоте использования на собеседовании
+2. переключаться между темами нужно как можно чаще, так лучше запоминается
