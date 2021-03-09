@@ -27,18 +27,19 @@
 ## Statistic
 
 ### Solved
-| date                |   |                                        |      |
-|---------------------|---|----------------------------------------|------|
-| 2021-03-06 21:51:27 | 1 | https://leetcode.com/problems/two-sum/ | easy |
-|                     |   |                                        |      |
+| date                |     |                                                   |        |
+|---------------------|-----|---------------------------------------------------|--------|
+| 2021-03-06 21:51:27 | 1   | https://leetcode.com/problems/two-sum/            | easy   |
+| 2021-03-07 13:14:35 | 707 | https://leetcode.com/problems/design-linked-list/ | medium |
+|                     |     |                                                   |        |
 
 ### Done with help
 
-| a | b | c | d | e | f | g | k |
-|---|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
+|   | id   | link                                                                                             |        |
+|---|------|--------------------------------------------------------------------------------------------------|--------|
+|   | 91   | https://leetcode.com/problems/decode-ways/                                                       | medium |
+|   | !146 | https://leetcode.com/problems/lru-cache/                                                         | medium |
+
 
 ### Done by myself but need attention:
 
@@ -52,7 +53,6 @@
 
 |   | id   | link                                                                                             |        |
 |---|------|--------------------------------------------------------------------------------------------------|--------|
-|   | 91   | https://leetcode.com/problems/decode-ways/                                                       | medium |
 |   | 56   | https://leetcode.com/problems/merge-intervals                                                    | medium |
 |   | 121  | https://leetcode.com/problems/best-time-to-buy-and-sell-stock                                    | easy   |
 |   | 238  | https://leetcode.com/problems/product-of-array-except-self                                       | medium |
