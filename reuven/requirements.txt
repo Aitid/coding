@@ -1,0 +1,6 @@
+pytest==6.2.*
+neovim==0.3.1
+pylint==2.6.*
+jedi==0.17.2
+ipython
+ipdb

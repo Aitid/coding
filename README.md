@@ -35,25 +35,23 @@
 
 ### Done with help
 
-|   | id   | link                                                                                             |        |
-|---|------|--------------------------------------------------------------------------------------------------|--------|
-|   | 91   | https://leetcode.com/problems/decode-ways/                                                       | medium |
-|   | !146 | https://leetcode.com/problems/lru-cache/                                                         | medium |
+|   | id   | link                                          |        |
+|---|------|-----------------------------------------------|--------|
+|   | 91   | https://leetcode.com/problems/decode-ways/    | medium |
+|   | 56   | https://leetcode.com/problems/merge-intervals | medium |
+|   | !146 | https://leetcode.com/problems/lru-cache/      | medium |
 
 
 ### Done by myself but need attention:
+|   | id  | link                                                            |      |
+|---|-----|-----------------------------------------------------------------|------|
+|   | 160 | https://leetcode.com/problems/intersection-of-two-linked-lists/ | easy |
 
-| a | b | c | d | e | f | g | k |
-|---|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |
 
 ### To do next
 
 |   | id   | link                                                                                             |        |
 |---|------|--------------------------------------------------------------------------------------------------|--------|
-|   | 56   | https://leetcode.com/problems/merge-intervals                                                    | medium |
 |   | 121  | https://leetcode.com/problems/best-time-to-buy-and-sell-stock                                    | easy   |
 |   | 238  | https://leetcode.com/problems/product-of-array-except-self                                       | medium |
 |   | 953  | https://leetcode.com/problems/verifying-an-alien-dictionary                                      | easy   |
